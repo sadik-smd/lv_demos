@@ -8,12 +8,11 @@
  *********************/
 
 #include "lv_demo_high_res.h"
+
+#include <stdlib.h>
+
 #if LV_USE_DEMO_HIGH_RES
 
-/* see `wifi_ssid_observer_cb` */
-#if 0
-    #include <stdlib.h>
-#endif
 
 /*********************
  *      DEFINES
